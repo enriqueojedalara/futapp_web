@@ -105,20 +105,9 @@
 					<div class="row">
 						
 							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>mundial 2014</h4>
-								<!--<img src="assets/img/flat-icon/s1.png" class="small-icon" alt="Features image">-->
-								<!--<video width="100%" height="80%" controls>con la etiketa vedeo se creo el contenedor para un video y ya con sourse se especifica el video y controls es para que aparescan los controles y soporta mp4 ogg webm
-									<source src="unapeliculamiedo.mp4" type="video/mp4">
-										Your browser does not support the video tag.
-								</video>-->
-								<iframe width="100%" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
-								<p>
-								
-								</p>
+								<h4>Mundial 2014</h4>
+								<iframe width="100%" height="401" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
 							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						
-						
-						<!--<h3>aqui ira el video</h3><!-- /.col-md-3 .col-sm-6 -->
 					</div><!-- /.row -->
 					<!-- END FEATURES COLUMN -->
 					
