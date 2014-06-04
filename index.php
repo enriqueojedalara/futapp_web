@@ -872,8 +872,7 @@
 		<div class="section-page-landing" id="contact">
 			<div class="inner-section">
 				<div class="container">
-					<h2 class="text-center">Tweet feeds</h2>
-					
+					<div id="twitter-feed" class="text-center"></div>
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div><!-- /.section-page-landing -->
@@ -992,6 +991,12 @@
 			});
 		</script>
 		<script src="assets/js/teplok-one-page.js"></script>
+
+		<!-- Stopwatch script -->
 		<script type="text/javascript" src="assets/js/stopwatch.js"></script>
+
+		<!-- Required for Twitter feeds -->
+		<script type="text/javascript" src="twitter/twitterfeed.js"></script>
+
 	</body>
 </html>
