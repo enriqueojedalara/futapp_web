@@ -41,7 +41,7 @@
 				<div class="container">
 					<!-- LOGO -->
 					<div id="logo">
-					<h1><a href="index.html"><img src="images/logo/logo_futapp.png" width="90px" height="43px"> FutApp</a></h1>
+					<h1><a href="index.html"><img src="images/logo/logo_futapp.png" width="90px" height="43px"><h4 style="float:right">Con Fut App saca el Director Técnico que llevas dentro...</h4></a>	</h1>
 					</div><!-- /#logo -->
 					<!-- END LOGO -->
 					<!-- NAV MENU -->
@@ -111,7 +111,7 @@
 									<source src="unapeliculamiedo.mp4" type="video/mp4">
 										Your browser does not support the video tag.
 								</video>-->
-								<iframe width="100%" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
+								<iframe width="640" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
 								<p>
 								
 								</p>
