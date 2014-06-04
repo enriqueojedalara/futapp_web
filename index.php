@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="Ari Rusmanto">
-	<title>Teplok - Responsive Landing Page</title>
+	<title>FutApp</title>
 	
 	<!-- CSS -->
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -41,19 +41,15 @@
 				<div class="container">
 					<!-- LOGO -->
 					<div id="logo">
-					<h1><a href="index.html"><i class="fa fa-flask"></i> teplok.</a></h1>
+					<h1><a href="index.html"><img src="images/logo/logo_futapp.png" width="90px" height="43px"> FutApp</a></h1>
 					</div><!-- /#logo -->
 					<!-- END LOGO -->
 					<!-- NAV MENU -->
 					<div class="menus" id="myScrollspy">
 						<ul class="nav scroll-nav">
-							<li class="active"><a href="#top"><i class="fa fa-home"></i><span>Home</span></a></li>
-							<li><a href="#features"><i class="fa fa-laptop"></i><span>Features</span></a></li>
-							<li><a href="#services"><i class="fa fa-cog"></i><span>Services</span></a></li>
-							<li><a href="#portfolio"><i class="fa fa-flask"></i><span>Portfolio</span></a></li>
-							<li><a href="#blog"><i class="fa fa-coffee"></i><span>Blog</span></a></li>
-							<li><a href="#team"><i class="fa fa-users"></i><span>Team</span></a></li>
-							<li><a href="#contact"><i class="fa fa-envelope"></i><span>Contact</span></a></li>
+							<!--<li><a>&nbsp;</a></li>-->
+							<li><a><i>Primer partido:</i><span>&nbsp;</span></a></li>
+							<li><a><i id="minstopwatch"></i><span>&nbsp;</span></a></li>
 						</ul>
 					</div><!-- /.menus -->
 					<!-- END NAV MENU -->
@@ -64,19 +60,13 @@
 			
 			<!-- HEADER SECTION CONTENT -->
 			<div class="awesome-slogan">
-			<h2>Your <span>Awesome</span> Text <span>Goes Here</span></h2>
-			<h4>aku kelingan <span>jaman semono</span> pas iseh nganggo <span>teplok</span></h4>
-				<p>FOLLOW US</p>
+			<h2><img src="images/logo/logo_futapp.png" width="40%" height="40%"></h2>
+			<h4 id="headerstopwatch"></h4>
+				<p>S&iacute;guenos en:</p>
 				<div class="clear"></div>
 				<div class="social-icons">
 					<a href="#fakelink" data-toggle="tooltip" title="Facebook"><img src="assets/img/social-icons/facebook.png" alt="Facebook icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Github"><img src="assets/img/social-icons/github.png" alt="Github icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Google+"><img src="assets/img/social-icons/gplus.png" alt="Gplus icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Liked In"><img src="assets/img/social-icons/likedin.png" alt="Linkedin icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Tumblr"><img src="assets/img/social-icons/tumblr.png" alt="Tumblr icon"></a>
 					<a href="#fakelink" data-toggle="tooltip" title="Twitter"><img src="assets/img/social-icons/twitter.png" alt="Twitter icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Vimeo"><img src="assets/img/social-icons/vimeo.png" alt="Vimeo icon"></a>
-					<a href="#fakelink" data-toggle="tooltip" title="Youtube"><img src="assets/img/social-icons/youtube.png" alt="Youtube icon"></a>
 				</div><!-- /.social-icons -->
 			</div><!-- /.awesome-slogan -->
 			<!-- END HEADER SECTION CONTENT -->
@@ -94,7 +84,6 @@
 		<div class="section-theme-landing"></div>
 		<!-- END SECTION THEME COLOR -->
 		
-		<!--<h3>hola</h3>-->
 		
 		
 		<!-- 
@@ -984,44 +973,8 @@
 		<div class="section-page-landing" id="contact">
 			<div class="inner-section">
 				<div class="container">
-					<h2 class="text-center">Get in Touch</h2>
-					<form role="form" class="contact-form" id="ContactForm" method="post">
-						<div class="row">
-							<div class="col-sm-4">
-							  <div class="form-group">
-								<input type="text" name="YourName" class="form-control" placeholder="Your name">
-							  </div>
-							</div>
-							<div class="col-sm-4">
-							  <div class="form-group">
-								<input type="email" name="YourEmail" class="form-control" placeholder="Your email">
-							  </div>
-							</div>
-							<div class="col-sm-4">
-							  <div class="form-group">
-								<input type="text" name="YourWebsite" class="form-control" placeholder="Your website">
-							  </div>
-							</div>
-						</div>
-					  <div class="form-group">
-						<textarea class="form-control" name="YourMessage" style="height: 200px" placeholder="Your message"></textarea>
-					  </div>
-						<div class="row">
-							<div class="col-sm-5">
-							</div>
-							<div class="col-sm-2">
-							  <div class="form-group">
-								<h4 class="text-center" id="SimpleCaptcha"></h4>
-								<input type="text" name="captcha" class="form-control" placeholder="Result">
-							  </div>
-							</div>
-							<div class="col-sm-5">
-							</div>
-						</div>
-						<p class="text-center">
-						<button type="submit" class="btn btn-default btn-teplok"><i class="fa fa-envelope"></i>Submit</button>
-						</p>
-					</form>
+					<h2 class="text-center">Tweet feeds</h2>
+					
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div><!-- /.section-page-landing -->
@@ -1140,5 +1093,6 @@
 			});
 		</script>
 		<script src="assets/js/teplok-one-page.js"></script>
+		<script type="text/javascript" src="assets/js/stopwatch.js"></script>
 	</body>
 </html>
