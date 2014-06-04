@@ -21,10 +21,6 @@
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
-
-	<!-- JS -->
-	
-
 	</head>
 	
 	<!-- BODY WITH DATA STYPE FOR SCROLLSPY -->
@@ -90,7 +86,6 @@
 		
 		
 		
-		
 		<!-- 
 		===========================================
 		BEGIN FEATURES SECTION
@@ -100,51 +95,30 @@
 			<div class="inner-section">
 				<div class="container">
 					<!-- SECTION TITLE -->
-					<h2 class="text-center">Main Features</h2>
+					<h2 class="text-center">FutApp mundial 2014</h2>
 					
 					<!-- BEGIN FEATURES DESCRIPTION -->
 					<h4 class="text-center">
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 					</h4>
 					<!-- END FEATURES DESCRIPTION -->
 					<!-- BEGIN FEATURES COLUMN -->
 					<div class="row">
-						<div class="col-md-3 col-sm-6">
+						
 							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>RESPONSIVE DESIGN</h4>
-								<img src="assets/img/flat-icon/s1.png" class="small-icon" alt="Features image">
+								<h4>mundial 2014</h4>
+								<!--<img src="assets/img/flat-icon/s1.png" class="small-icon" alt="Features image">-->
+								<!--<video width="100%" height="80%" controls>con la etiketa vedeo se creo el contenedor para un video y ya con sourse se especifica el video y controls es para que aparescan los controles y soporta mp4 ogg webm
+									<source src="unapeliculamiedo.mp4" type="video/mp4">
+										Your browser does not support the video tag.
+								</video>-->
+								<iframe width="100%" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
 								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
+								
 								</p>
 							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>USE BOOTSTRAP 3.1.X</h4>
-								<img src="assets/img/flat-icon/s2.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>+ COMING SOON</h4>
-								<img src="assets/img/flat-icon/s7.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>EASY TO USE</h4>
-								<img src="assets/img/flat-icon/s3.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
+						
+						
+						<!--<h3>aqui ira el video</h3><!-- /.col-md-3 .col-sm-6 -->
 					</div><!-- /.row -->
 					<!-- END FEATURES COLUMN -->
 					
@@ -793,8 +767,135 @@
 		===========================================
 		-->
 		
-
-
+		
+		
+		
+		
+		<!-- 
+		===========================================
+		BEGIN TEAM SECTION
+		===========================================
+		-->
+		<div class="section-page-landing section-light-grey" id="team">
+			<div class="inner-section">
+				<div class="container">
+					<h2 class="text-center">Meet Our Team</h2>
+					
+					<!-- TEAM COLUMN -->
+					<div class="row">
+						<div class="col-md-3 col-sm-6">
+							<div class="the-box-landing text-center the-team-landing full">
+								<div class="ava-wrap">
+										<div class="see-detail"></div>
+										<div class="button-link">
+											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
+											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
+											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
+										</div>
+									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
+								</div><!-- /.ava-wrap -->
+								<div class="des">
+									<h3>Randy Gibson</h3>
+									<h5>-ART DIRECTOR-</h5>
+								</div><!-- /.des -->
+							</div><!-- /.the-box-landing .text-center .the-team-landing full -->
+						</div><!-- /.col-md-3 .col-sm-6 -->
+						<div class="col-md-3 col-sm-6">
+							<div class="the-box-landing text-center the-team-landing full">
+								<div class="ava-wrap">
+										<div class="see-detail"></div>
+										<div class="button-link">
+											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
+											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
+											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
+										</div>
+									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
+								</div><!-- /.ava-wrap -->
+								<div class="des">
+									<h3>Jennifer Watkins</h3>
+									<h5>-UI DESIGNER-</h5>
+								</div><!-- /.des -->
+							</div><!-- /.the-box-landing .text-center .the-team-landing full -->
+						</div><!-- /.col-md-3 .col-sm-6 -->
+						<div class="col-md-3 col-sm-6">
+							<div class="the-box-landing text-center the-team-landing full">
+								<div class="ava-wrap">
+										<div class="see-detail"></div>
+										<div class="button-link">
+											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
+											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
+											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
+										</div>
+									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
+								</div><!-- /.ava-wrap -->
+								<div class="des">
+									<h3>Bobby Morgan</h3>
+									<h5>-COPYWRITER-</h5>
+								</div><!-- /.des -->
+							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
+						</div><!-- /.col-md-3 .col-sm-6 -->
+						<div class="col-md-3 col-sm-6">
+							<div class="the-box-landing text-center the-team-landing full">
+								<div class="ava-wrap">
+										<div class="see-detail"></div>
+										<div class="button-link">
+											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
+											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
+											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
+										</div>
+									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
+								</div><!-- /.ava-wrap -->
+								<div class="des">
+									<h3>Amanda Hart</h3>
+									<h5>-PHOTOGRAPHER-</h5>
+								</div><!-- /.des -->
+							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
+						</div><!-- /.col-md-3 .col-sm-6 -->
+						<div class="clearfix visible-xs"></div>
+						<div class="col-md-3 col-sm-6">
+							<div class="the-box-landing text-center the-team-landing full">
+								<div class="ava-wrap">
+										<div class="see-detail"></div>
+										<div class="button-link">
+											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
+											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
+											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
+										</div>
+									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
+								</div><!-- /.ava-wrap -->
+								<div class="des">
+									<h3>Louis Thompson</h3>
+									<h5>-GRAPHIC DESIGNER-</h5>
+								</div><!-- /.des -->
+							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
+						</div><!-- /.col-md-3 .col-sm-6 -->
+						
+						<!-- YOU CAN USE THIS COLUMN FOR HIRING INFORMATION -->
+						<div class="col-md-9 col-sm-6">
+							<div class="the-box-landing full text-center the-box-transparent">
+								<h2>We're hiring, join with us...</h2>
+								<h4>
+								Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.
+								</h4>
+								<button class="btn btn-default btn-teplok btn-lg btn-distance"><i class="fa fa-cloud-upload"></i> Submit your application</button>
+								<p class="text-danger">*note : all in one zipped file</p>
+							</div><!-- /.the-box-landing .full .text-center .the-box-transparent -->
+						</div><!-- /.col-md-9 .col-sm-6 -->
+					</div><!-- /.row -->
+					<!-- END TEAM COLUMN -->
+				</div><!-- /.container -->
+			</div><!-- /.inner-section -->
+		</div><!-- /.section-page-landing .section-light-grey -->
+		<!-- 
+		===========================================
+		END TEAM SECTION
+		===========================================
+		-->
+		
+		
+		
+		
+		
 		<!-- 
 		===========================================
 		BEGIN CLIENT SECTION
