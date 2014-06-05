@@ -920,6 +920,28 @@ body.error-page-wrap{
 	padding: 0;
 }
 
+/** TWITTER **/
+#twitter-feed{
+	color:#000;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	max-height: 200px;
+}
+
+#twitter-feed h2 a{
+	color:#777;
+}
+
+.feed{
+	background-color:#777;
+	padding:5px;
+	border: solid 1px #000;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	width: 80%;
+	margin-left: 10%;
+}
 
 /** FOOTER **/
 form.form-subscribe{margin: 13px 0;}

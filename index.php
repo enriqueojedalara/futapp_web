@@ -158,7 +158,6 @@
 			 </div>
 		</div> -->
 
-
 		<div class="section-page-landing section-transparent" id="texto" style="background-position: 50% 0px;background: rgba(1,1,1,.90);">
 			<div class="section-overlay">
 				<div class="inner-section-space">
@@ -177,7 +176,14 @@
 				</div>
 			</div>
 		</div>
-
+		<!--TWITTER-->
+		<div class="section-page-landing" id="contact">
+			<div class="inner-section">
+				<div class="container">
+					<div class="text-center" id="twitter-feed"></div>
+				</div><!-- /.container -->
+			</div><!-- /.inner-section -->
+		</div><!-- /.section-page-landing -->
 
 		<footer>
 			<div class="footer">

@@ -12,7 +12,7 @@ $(document).ready(function () {
     var headerHTML = '';
     var loadingHTML = '';
    
-    headerHTML += '<h2>'+screenname+' <span><a href="https://twitter.com/'+twitterprofile+'" >@'+twitterprofile+'</a></span></h2>';
+    headerHTML += '<h2>'+screenname+' <span><a href="https://twitter.com/'+twitterprofile+'">@'+twitterprofile+'</a></span></h2>';
     loadingHTML += '<div id="loading-container"><img src="images/ajax-loader.gif" width="32" height="32" alt="tweet loader" /></div>';
  
     $('#twitter-feed').html(headerHTML + loadingHTML);
@@ -57,7 +57,7 @@ $(document).ready(function () {
                             feedHTML += headerHTML;
                         }
  
-                        feedHTML += '<div class="row">';
+                        feedHTML += '<div class="row feed">';
                         feedHTML += '<div class="col-sm-1">'
 										+'<a href="https://twitter.com/'+tweetusername+'" >'
 											+'<img src="'+profileimage+'"images/twitter-feed-icon.png" width="42" height="42" alt="twitter icon" />'
@@ -74,7 +74,7 @@ $(document).ready(function () {
 											+'<span class="col-sm-11">'
 												+status
 											+'</span>'
-											+'Hace:&nbsp;<a href="https://twitter.com/'+tweetusername+'/status/'+tweetid+'">'
+											+'Publicado:&nbsp;<a href="https://twitter.com/'+tweetusername+'/status/'+tweetid+'">'
 												+relative_time(feeds[i].created_at)
 											+'</a>'
 										+'</p>'
