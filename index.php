@@ -383,7 +383,6 @@
 		
 		
 		
-		
 		<!-- 
 		===========================================
 		BEGIN PRICING TABLE SECTION
@@ -393,115 +392,8 @@
 			<div class="section-overlay">
 				<div class="inner-section">
 					<div class="container">
-						<h2 class="text-center">Pricing Table</h2>
 						
-						<!-- PRICING TABLE COLUMN -->
-						<div class="row">
-							<div class="col-md-3 col-sm-6">
-								<div class="pricing-table-landing">
-									<div class="the-box-landing full">
-										<div class="header"><h3>BRONZE</h3></div>
-										<div class="circle-price-wrap">
-											<h2>&#36;25<small>Per-Month</small></h2>
-										</div>
-										<table class="table table-inner table-striped">
-											<tbody>
-												<tr><td><strong>250MB</strong> Storage</td></tr>
-												<tr><td><strong>2.5GB</strong> Monthly Bandwidth</td></tr>
-												<tr><td><strong>Free</strong> Set up</td></tr>
-												<tr><td><strong>10</strong> Email Accounts</td></tr>
-												<tr><td><strong>1</strong> Add ons Domain</td></tr>
-											</tbody>
-											<tfoot>
-												<tr><td>
-												<a class="btn btn-primary">Purchase</a>
-												</td></tr>
-											</tfoot>
-										</table>
-									</div><!-- /.the-box-landing .full -->
-								</div><!-- /.pricing-table-landing -->
-							</div><!-- /.col-md-3 .col-sm-6 -->
-							
-							<div class="col-md-3 col-sm-6">
-								<div class="pricing-table-landing">
-									<div class="the-box-landing full">
-										<div class="header"><h3>SILVER</h3></div>
-										<div class="circle-price-wrap">
-											<h2>&#36;50<small>Per-Month</small></h2>
-										</div>
-										<table class="table table-inner table-striped">
-											<tbody>
-												<tr><td><strong>500MB</strong> Storage</td></tr>
-												<tr><td><strong>5GB</strong> Monthly Bandwidth</td></tr>
-												<tr><td><strong>Free</strong> Set up</td></tr>
-												<tr><td><strong>25</strong> Email Accounts</td></tr>
-												<tr><td><strong>2</strong> Add ons Domain</td></tr>
-											</tbody>
-											<tfoot>
-												<tr><td>
-												<a class="btn btn-primary">Purchase</a>
-												</td></tr>
-											</tfoot>
-										</table>
-									</div><!-- /.the-box-landing .full -->
-								</div><!-- /.pricing-table-landing -->
-							</div><!-- /.col-md-3 .col-sm-6 -->
-							
-							<div class="col-md-3 col-sm-6">
-								<div class="pricing-table-landing best-choice">
-									<div class="the-box-landing full">
-										<div class="header">
-											<h3>GOLD</h3>
-										</div>
-										<div class="circle-price-wrap">
-										<h2>&#36;100<small>Per-Month</small></h2>
-										</div>
-										<table class="table table-inner table-striped">
-											<tbody>
-												<tr><td><strong>1GB</strong> Storage</td></tr>
-												<tr><td><strong>10GB</strong> Monthly Bandwidth</td></tr>
-												<tr><td><strong>Free</strong> Set up</td></tr>
-												<tr><td><strong>100</strong> Email Accounts</td></tr>
-												<tr><td><strong>5</strong> Add ons Domain</td></tr>
-											</tbody>
-											<tfoot>
-												<tr><td>
-												<a class="btn btn-default btn-teplok">Purchase</a>
-												</td></tr>
-											</tfoot>
-										</table><!-- /.table table-inner .table-striped -->
-									</div><!-- /.the-box-landing full -->
-								</div><!-- /.pricing-table-landing .best-choice -->
-							</div><!-- /.col-md-3 .col-sm-6 -->
-							
-							<div class="col-md-3 col-sm-6">
-								<div class="pricing-table-landing">
-									<div class="the-box-landing full">
-										<div class="header">
-											<h3>PLATINUM</h3>
-										</div>
-										<div class="circle-price-wrap">
-										<h2>&#36;250<small>Per-Month</small></h2>
-										</div>
-										<table class="table table-inner table-striped">
-											<tbody>
-												<tr><td><strong>3GB</strong> Storage</td></tr>
-												<tr><td><strong>50GB</strong> Monthly Bandwidth</td></tr>
-												<tr><td><strong>Free</strong> Set up</td></tr>
-												<tr><td><strong>200</strong> Email Accounts</td></tr>
-												<tr><td><strong>10</strong> Add ons Domain</td></tr>
-											</tbody>
-											<tfoot>
-												<tr><td>
-												<a class="btn btn-primary">Purchase</a>
-												</td></tr>
-											</tfoot>
-										</table>
-									</div><!-- /.the-box-landing .full -->
-								</div><!-- /.pricing-table-landing -->
-							</div><!-- /.col-md-3 .col-sm-6 -->
-						</div><!-- /.row -->
-						<!-- END PRICING TABLE COLUMN -->
+						<h2 class="text-center">Calendario</h2>
 						
 					</div><!-- /.container -->
 				</div><!-- /.inner-section -->
@@ -525,152 +417,9 @@
 		<div class="section-page-landing" id="blog">
 			<div class="inner-section">
 				<div class="container">
-					<h2 class="text-center">From the Blog</h2>
+				
+					<h2 class="text-center">Scroll Tutorial</h2>
 					
-					<!-- BLOG STYLE 1 -->
-					<div class="row">
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing full the-box-light-grey blog-landing">
-								<div class="blog-column">
-									<div class="img-wrap">
-										<a href="blog-detail.html">
-										<span class="show-link-icon"><i class="fa fa-link"></i></span>
-										<img src="images/blog-img/image003.jpg" alt="Image blog">
-										</a>
-									</div>
-									<div class="blog-column-des">
-										<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-										<p class="additional">By <a href="#fakelink">John Doe</a> about 12 hours ago</p>
-										<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-									</div><!-- /.blog-column-des -->
-								</div><!-- /.blog-column -->
-							</div><!-- /.the-box-landing .full the-box-light-grey .blog-landing -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing full the-box-light-grey blog-landing">
-								<div class="blog-column">
-									<div class="img-wrap">
-										<a href="blog-detail.html">
-											<span class="show-link-icon"><i class="fa fa-link"></i></span>
-											<img src="images/blog-img/image002.jpg" alt="Image blog">
-										</a>
-									</div><!-- /.img-wrap -->
-									<div class="blog-column-des">
-										<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-										<p class="additional">By <a href="#fakelink">John Doe</a> about 12 hours ago</p>
-										<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-									</div><!-- /.blog-column-des -->
-								</div><!-- /.blog-column -->
-							</div><!-- /.the-box-landing .full .the-box-light-grey .blog-landing -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-					
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing full the-box-light-grey blog-landing">
-								<div class="blog-column">
-									<div class="img-wrap">
-										<a href="blog-detail.html">
-											<span class="show-link-icon"><i class="fa fa-link"></i></span>
-											<img src="images/blog-img/image001.jpg" alt="Image blog">
-										</a>
-									</div><!-- /.img-wrap -->
-									<div class="blog-column-des">
-										<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-										<p class="additional">By <a href="#fakelink">John Doe</a> about 12 hours ago</p>
-										<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-									</div><!-- /.blog-column-des -->
-								</div><!-- /.blog-column -->
-							</div><!-- /.the-box-landing .full the-box-light-grey .blog-landing -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing full the-box-light-grey blog-landing">
-								<div class="blog-column">
-									<div class="img-wrap">
-										<a href="blog-detail.html">
-											<span class="show-link-icon"><i class="fa fa-link"></i></span>
-											<img src="images/blog-img/image003.jpg" alt="Image blog">
-										</a>
-									</div><!-- /.img-wrap -->
-									<div class="blog-column-des">
-										<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-										<p class="additional">By <a href="#fakelink">John Doe</a> about 12 hours ago</p>
-										<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-									</div><!-- /.blog-column-des -->
-								</div><!-- /.blog-column -->
-							</div><!-- /.the-box-landing .full the-box-light-grey .blog-landing -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-					</div><!-- /.row -->
-					<!-- END BLOG STYLE 1 -->
-					
-					
-					
-					<h4 class="text-center">YOU CAN ALSO USE THE FOLLOWING STYLE</h4>
-					
-					<!-- BLOG STYLE 2 -->
-					<div class="row">
-						<div class="col-md-6 col-sm-12">
-							<div class="the-box-landing full the-box-light-grey blog-landing border-color-left">
-								<div class="blog-latest-img">
-									<a href="blog-detail.html">
-										<span class="show-link-icon"><i class="fa fa-link"></i></span>
-										<img src="images/blog-img/image001.jpg" alt="Image blog">
-									</a>
-								</div><!-- /.blog-latest-img -->
-								<div class="blog-latest-des">
-									<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-									<p class="additional">By <a href="#fakelink">John Doe</a> about 9 hours ago</p>
-									<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-								</div><!-- /.blog-latest-des -->
-							</div><!-- /.the-box-landing .full .the-box-light-grey .blog-landing .border-color-left -->
-						</div><!-- /.col-md-6 .col-sm-12 -->
-						<div class="col-md-6 col-sm-12">
-							<div class="the-box-landing full the-box-light-grey blog-landing border-color-left">
-								<div class="blog-latest-img">
-									<a href="blog-detail.html">
-										<span class="show-link-icon"><i class="fa fa-link"></i></span>
-										<img src="images/blog-img/image002.jpg" alt="Image blog">
-									</a>
-								</div><!-- /.blog-latest-img -->
-								<div class="blog-latest-des">
-									<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-									<p class="additional">By <a href="#fakelink">John Doe</a> about 9 hours ago</p>
-									<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-								</div><!-- /.blog-latest-des -->
-							</div><!-- /.the-box-landing .full .the-box-light-grey .blog-landing .border-color-left -->
-						</div><!-- /.col-md-6 .col-sm-12 -->
-						<div class="col-md-6 col-sm-12">
-							<div class="the-box-landing full the-box-light-grey blog-landing border-color-left">
-								<div class="blog-latest-img">
-									<a href="blog-detail.html">
-										<span class="show-link-icon"><i class="fa fa-link"></i></span>
-										<img src="images/blog-img/image003.jpg" alt="Image blog">
-									</a>
-								</div><!-- /.blog-latest-img -->
-								<div class="blog-latest-des">
-									<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-									<p class="additional">By <a href="#fakelink">John Doe</a> about 9 hours ago</p>
-									<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-								</div><!-- /.blog-latest-des -->
-							</div><!-- /.the-box-landing .full .the-box-light-grey .blog-landing .border-color-left -->
-						</div><!-- /.col-md-6 .col-sm-12 -->
-						<div class="col-md-6 col-sm-12">
-							<div class="the-box-landing full the-box-light-grey blog-landing border-color-left">
-								<div class="blog-latest-img">
-									<a href="blog-detail.html">
-										<span class="show-link-icon"><i class="fa fa-link"></i></span>
-										<img src="images/blog-img/image001.jpg" alt="Image blog">
-									</a>
-								</div><!-- /.blog-latest-img -->
-								<div class="blog-latest-des">
-									<h3><a href="blog-detail.html">Duis autem vel eum iriure dolor in hendrerit in vulputate</a></h3>
-									<p class="additional">By <a href="#fakelink">John Doe</a> about 9 hours ago</p>
-									<a href="blog-detail.html" class="btn btn-default btn-teplok"><i class="fa fa-angle-right"></i>Read more</a>
-								</div><!-- /.blog-latest-des -->
-							</div><!-- /.the-box-landing .full .the-box-light-grey .blog-landing .border-color-left -->
-						</div><!-- /.col-md-6 .col-sm-12 -->
-					</div><!-- /.row -->
-					<!-- END BLOG STYLE 2 -->
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div><!-- /.section-page-landing -->
@@ -680,6 +429,10 @@
 		===========================================
 		-->
 		
+		
+		
+		
+		
 		<!-- 
 		===========================================
 		BEGIN CLIENT SECTION
@@ -688,27 +441,36 @@
 		<div class="section-page-landing section-grey" id="client">
 			<div class="inner-section">
 				<div class="container text-center">
-					<h2 class="text-center">Our Clients</h2>
+					<h2 class="text-center">Con Fut App saca el Director Técnico que llevas dentro, crea tu alineación, compártela en redes sociales y demuestra tus conocimientos de futbol.</h2>
 					<div class="clients">
 						<div class="row">
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/google-logo.png" alt="Image client"></a>
-							</div>
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/wordpress-logo.png" alt="Image client"></a>
-							</div>
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/yahoo-logo.png" alt="Image client"></a>
-							</div>
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/marlboro-logo.png" alt="Image client"></a>
-							</div>
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/microsoft-logo.png" alt="Image client"></a>
-							</div>
-							<div class="col-md-2 col-xs-6">
-								<a href="#fakelink"><img src="images/client-logo/nokia-logo.png" alt="Image client"></a>
-							</div><!-- /.col-md-2 col-xs-6 -->
+							
+						<h3>Descarga la app de zambombazo quiz y reta tus conocimientos deportivos.</h3>
+						
+						<!-- Botones de descarga -->
+						<div class="hi-icon-effect-1 hi-icon-effect-1a">
+							<div class="row">
+								<div class="col-sm-3">
+									<div class="the-box-landing the-box-transparent text-center">
+										<h4>Android</h4>
+										<a href="#fakelink" class="hi-icon hi-icon-screen">Web Design</a>
+									</div><!-- /.the-box-landing .the-box-transparent .text-center -->
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									<div class="the-box-landing the-box-transparent text-center">
+										<h4>IOS</h4>
+										<a href="#fakelink" class="hi-icon hi-icon-mobile">Mobile Apps</a>
+									</div><!-- /.the-box-landing .the-box-transparent .text-center -->
+								</div><!-- /.col-sm-3 -->
+							</div><!-- /.row -->
+						</div><!-- /.hi-icon-effect-1 .hi-icon-effect-1a -->
+							
 						</div><!-- /.row -->
 					</div><!-- /.clients -->
 				</div><!-- /.container .text-center -->
@@ -733,8 +495,31 @@
 				<div class="inner-section">
 					<div class="container text-center">
 						<div class="quote">
-							<h1>&#34;If you can't make it good at least make it look good&#34;</h1>
-							<h3>- Bill Gates</h3>
+							<h1>¿Cu&aacute;nto sabes de Futbol?</h1>
+							<h3>Descarga la app de zambombazo quiz y reta tus conocimientos deportivos.</h3>
+							
+							<!-- Botones de descarga -->
+							<div class="row">
+								<div class="col-sm-3">
+									<div class="the-box-landing the-box-transparent text-center">
+										<h4>Android</h4>
+										<a href="#fakelink" class="hi-icon hi-icon-screen">Web Design</a>
+									</div><!-- /.the-box-landing .the-box-transparent .text-center -->
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									
+								</div><!-- /.col-sm-3 -->
+								<div class="col-sm-3">
+									<div class="the-box-landing the-box-transparent text-center">
+										<h4>IOS</h4>
+										<a href="#fakelink" class="hi-icon hi-icon-mobile">Mobile Apps</a>
+									</div><!-- /.the-box-landing .the-box-transparent .text-center -->
+								</div><!-- /.col-sm-3 -->
+							</div><!-- /.row -->
+							
 						</div><!-- /.quote -->
 					</div><!-- /.container text-center -->
 				</div><!-- /.inner-section -->
@@ -757,7 +542,10 @@
 		<div class="section-page-landing" id="contact">
 			<div class="inner-section">
 				<div class="container">
-					<div id="twitter-feed" class="text-center"></div>
+				
+				<!-- Aqui va lo de Twiter -->
+				<h3>Twitter</h3>
+				
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div><!-- /.section-page-landing -->
@@ -777,60 +565,33 @@
 		-->
 		<footer>
 			<div class="container">
-				<div class="row text-center">
+				<div class="row text-left">
 					<div class="col-sm-3">
-						<h5>ABOUT US</h5>
-						<p>
-						Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-						<br />
-						<a href="#fakelink">Read more</a>
-						</p>
-					</div>
-					<div class="col-sm-3">
-						<h5>NAV MENUS</h5>
-						<ul>
-							<li><a href="#fakelink">Template Features</a></li>
-							<li><a href="#fakelink">Our Services</a></li>
-							<li><a href="#fakelink">Our Portfolio</a></li>
-							<li><a href="blog-list.html">Blog Page</a></li>
-							<li><a href="#fakelink">Contact Us</a></li>
-						</ul>
-					</div>
-					<div class="col-sm-3">
-						<h5>OUR LOCATION</h5>
-						<address>
-						  <strong>Teplok - Responsive Landing Template</strong><br>
-						  Ds. Jatirejo RT 02/21 No 25A<br>
-						  Sendangadi, Mlati, Sleman<br>
-						  Yogyakarta, Indonesia<br>
-						  <abbr title="Phone">P:</abbr> (+6274) 123-4567
-						</address>
-
+						<h5>Contacto: </h5>
 						<address>
 						  <strong>Email : </strong><br>
-						  <a href="mailto:#">first.last@example.com</a>
+						  <a href="mailto:#">info@futapp.com</a>
+						  <br>
+						  <a href="mailto:#">info2@futapp.com</a>
 						</address>
 					</div>
 					<div class="col-sm-3">
-						<h5>SUBSCRIBE</h5>
-						<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
-						<form role="form" method="POST" class="form-subscribe">
-							<div class="input-group">
-							  <input type="text" class="form-control" placeholder="Email address">
-							  <span class="input-group-btn">
-								<button class="btn btn-default btn-teplok" type="button"><i class="fa fa-chevron-right"></i></button>
-							  </span>
-							</div>
-						</form>
-						<p>*we never send junks</p>
+						<!-- Espacio en blanco -->
+					</div>
+					<div class="col-sm-3">
+						<!-- Espacio en blanco -->
+					</div>
+					<div class="col-sm-3">
+						<h5>Desarrollado por:</h5>
+						<img src="images/logo/logo-jaguarlabs.jpg" class="img-responsive" alt="logo" width="60" height="60">
 					</div><!-- /.col-sm-3 -->
 				</div><!-- /.row .text-center -->
 			</div><!-- /.container -->
 			
 			<div class="footer">
 				<div class="container">
-					&copy; 2014 <a href="#fakelink">Company Name</a><br />
-					<a href="#fakelink">Teplok - Responsive Landing Template</a> design with love by <a href="http://isohdesign.com" target="_blank">ID Studio</a> in Yogyakarta, <abbr title="Indonesia">ID</abbr>
+					&copy; 2014 <a href="#fakelink">Jaguar Labs</a><br />
+					<a href="#fakelink">Futapp</a> Todos los derechos reservados. <a href="http://jaguarlabs.com" target="_blank">
 				</div><!-- /.container -->
 			</div><!-- /.footer -->
 		</footer>
