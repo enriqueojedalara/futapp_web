@@ -920,6 +920,39 @@ body.error-page-wrap{
 	padding: 0;
 }
 
+/** TWITTER **/
+#twitter-feed{
+	color:#000;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	max-height: 200px;
+	border-top: solid 1px #0080FF;
+	border-bottom: solid 1px #0080FF;
+}
+
+#tweets h2 a{
+	color:#0080FF;
+}
+
+.feed{
+	background-color:#fff;
+	padding:5px;
+	border: solid 1px #000;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border-color: #0080FF;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.feed a{
+	color:#0000FF;
+}
+
+.feed a:hover{
+	color:#79BFFF;
+}
 
 /** FOOTER **/
 form.form-subscribe{margin: 13px 0;}

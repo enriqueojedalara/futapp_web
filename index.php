@@ -158,7 +158,6 @@
 			 </div>
 		</div> -->
 
-
 		<div class="section-page-landing section-transparent" id="texto" style="background-position: 50% 0px;background: rgba(1,1,1,.90);">
 			<div class="section-overlay">
 				<div class="inner-section-space">
@@ -177,7 +176,15 @@
 				</div>
 			</div>
 		</div>
-
+		<!--TWITTER-->
+		<div class="section-page-landing" id="twitter">
+			<div class="inner-section">
+				<div class="container text-center" id="tweets">
+					<h2><img src="images/logo/twitter_logo.png" width="70" height="50"><span><a href="https://twitter.com/'+twitterprofile+'">@FutApp</a></span></h2>
+					<div class="text-center" id="twitter-feed"></div>
+				</div><!-- /.container -->
+			</div><!-- /.inner-section -->
+		</div><!-- /.section-page-landing -->
 
 		<footer>
 			<div class="footer">
