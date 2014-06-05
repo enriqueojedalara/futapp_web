@@ -113,7 +113,7 @@ a.btn.btn-default.btn-teplok:focus{
 #header-landing{
 	padding: 8% 0;
 	position:relative;
-	background: rgba(1,1,1,.5);
+	background: rgba(1,1,1,.75);
 }
 #header-landing.inner-page{
 	height: auto;
@@ -149,7 +149,7 @@ a.btn.btn-default.btn-teplok:focus{
 #header-landing #logo h1 i{color: #B3C833;}
 #header-landing #nav-menu{
 	padding: 0;
-	background: #272727;
+	background: rgba(1,1,1,.68);
 	z-index: 20;
 	padding: 5px 0;
 	position: fixed;
@@ -926,7 +926,7 @@ form.form-subscribe{margin: 13px 0;}
 form.form-subscribe button.btn i{margin-left: 5px;}
 form.form-subscribe .form-control{border: none;}
 footer{
-	padding: 40px 0 0;
+	padding: 0px 0 0;
 	background: #272727;
 	margin: 0 0 -30px 0;
 	color: #C6C6C6;
@@ -948,8 +948,8 @@ footer ul{
 }
 footer ul li{padding: 5px 0;}
 footer .footer{
-	padding: 20px 0 50px;
-	margin: 40px 0 0px;
+	padding: 0px 0 0px;
+	margin: 0px 0 0px;
 	text-align: center;
 	font-size: 12px;
 	border-top: 1px solid #1c1c1c;
