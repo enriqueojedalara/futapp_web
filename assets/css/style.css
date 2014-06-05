@@ -1053,3 +1053,7 @@ footer .footer{
 	-o-transition: background 0.15s ease;
 	transition: background 0.15s ease;
 }
+
+.carousel-caption{
+	bottom:50% !important;
+}

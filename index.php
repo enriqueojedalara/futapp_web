@@ -98,6 +98,51 @@
 
 		 <div class="section-page-landing section-light-grey" id="tips">
 	 		<h2 class="text-center">Tips para usar la aplicación</h2>
+			<div id="carousel-example-generic" class="carousel slide">
+				<ol class="carousel-indicators">
+					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="item active">
+						<img src="images/image003.jpg" width="100%" alt="">
+						<div class="carousel-caption">
+							<h1>Tip #1</h1>
+							<h2>Tip #1</h2>
+							<h3>Tip #1</h3>
+							<p>This is the tip...</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="images/image004.jpg" width="100%" lt="">
+						<div class="carousel-caption">
+							<h1>Tip #2</h1>
+							<h2>Tip #2</h2>
+							<h3>Tip #2</h3>
+							<p>This is the tip...</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="images/image005.jpg" width="100%" alt="">
+						<div class="carousel-caption">
+							<h2>Tip #3</h2>
+							<p>This is the tip...</p>
+						</div>
+					</div>
+				</div>
+
+				<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+					<span class="icon-prev"></span>
+				</a>
+				<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+					<span class="icon-next"></span>
+				</a>
+			</div>
+		</div>
+
+<!-- 		 <div class="section-page-landing section-light-grey" id="tips">
+	 		<h2 class="text-center">Tips para usar la aplicación</h2>
 			 <div class="slides">
 			    <div class="slides-container">
 			      <img src="images/image003.jpg" alt="Cinelli">
@@ -111,7 +156,7 @@
 			      <a href="#" class="prev"></a>
 			    </nav>
 			 </div>
-		</div>
+		</div> -->
 
 
 		<div class="section-page-landing section-transparent" id="texto" style="background-position: 50% 0px;background: rgba(1,1,1,.90);">
