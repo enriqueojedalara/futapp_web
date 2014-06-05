@@ -91,7 +91,7 @@
 		 	<div class="container">
 		 		<h2 class="text-center"></h2>
 		 		<div class="row">
-		 			<img src="http://todograma.com/wp-content/uploads/2013/12/001_GR352398.jpg" width="100%">
+		 			<img src="http://radiomusideportes.com/nueva/wp-content/uploads/2014/02/calendario-II.png" width="100%">
 				</div>
 			</div>
 		 </div>
