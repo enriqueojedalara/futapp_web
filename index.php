@@ -15,16 +15,13 @@
 	<link href="assets/css/style-responsive.css" rel="stylesheet">
 	<link href="assets/third/font-awesome/css/font-awesome.css" rel="stylesheet">
 	<link href="assets/third/hovericon/css/component.css" rel="stylesheet">
+	<link href="assets/css/superslides.css" rel="stylesheet" >
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
-
-	<!-- JS -->
-	
-
 	</head>
 	
 	<!-- BODY WITH DATA STYPE FOR SCROLLSPY -->
@@ -45,7 +42,7 @@
 				<div class="container">
 					<!-- LOGO -->
 					<div id="logo">
-					<h1><a href="index.html"><img src="images/logo/logo_futapp.png" width="90px" height="43px"> FutApp</a></h1>
+					<h1><a href="index.html"><img src="images/logo/logo_futapp.png" width="90px" height="43px"><h4 style="float:right">Con Fut App saca el Director Técnico que llevas dentro...</h4></a>	</h1>
 					</div><!-- /#logo -->
 					<!-- END LOGO -->
 					<!-- NAV MENU -->
@@ -90,7 +87,6 @@
 		
 		
 		
-		
 		<!-- 
 		===========================================
 		BEGIN FEATURES SECTION
@@ -100,51 +96,30 @@
 			<div class="inner-section">
 				<div class="container">
 					<!-- SECTION TITLE -->
-					<h2 class="text-center">Main Features</h2>
+					<h2 class="text-center">FutApp mundial 2014</h2>
 					
 					<!-- BEGIN FEATURES DESCRIPTION -->
 					<h4 class="text-center">
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 					</h4>
 					<!-- END FEATURES DESCRIPTION -->
 					<!-- BEGIN FEATURES COLUMN -->
 					<div class="row">
-						<div class="col-md-3 col-sm-6">
+						
 							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>RESPONSIVE DESIGN</h4>
-								<img src="assets/img/flat-icon/s1.png" class="small-icon" alt="Features image">
+								<h4>mundial 2014</h4>
+								<!--<img src="assets/img/flat-icon/s1.png" class="small-icon" alt="Features image">-->
+								<!--<video width="100%" height="80%" controls>con la etiketa vedeo se creo el contenedor para un video y ya con sourse se especifica el video y controls es para que aparescan los controles y soporta mp4 ogg webm
+									<source src="unapeliculamiedo.mp4" type="video/mp4">
+										Your browser does not support the video tag.
+								</video>-->
+								<iframe width="640" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
 								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
+								
 								</p>
 							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>USE BOOTSTRAP 3.1.X</h4>
-								<img src="assets/img/flat-icon/s2.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>+ COMING SOON</h4>
-								<img src="assets/img/flat-icon/s7.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing border-hover-bottom text-center">
-								<h4>EASY TO USE</h4>
-								<img src="assets/img/flat-icon/s3.png" class="small-icon" alt="Features image">
-								<p>
-								Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-								</p>
-							</div><!-- /.the-box-landing .border-hover-bottom .text-center -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
+						
+						
+						<!--<h3>aqui ira el video</h3><!-- /.col-md-3 .col-sm-6 -->
 					</div><!-- /.row -->
 					<!-- END FEATURES COLUMN -->
 					
@@ -177,117 +152,29 @@
 		BEGIN SERVICES SECTION
 		===========================================
 		-->
-		<div class="section-page-landing section-grey" id="services">
-			<div class="inner-section">
-				<div class="container">
-					<!-- BEGIN HEADING SECTION -->
-					<h2 class="text-center">Our Services</h2>
-					<!-- END HEADING SECTION -->
-					<!-- BEGIN SERVICES DESCRIPTION -->
-					<h4 class="text-center">
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-					</h4>
-					<!-- END SERVICES DESCRIPTION -->
-					
-					<div class="hi-icon-effect-1 hi-icon-effect-1a">
-						<div class="row">
-							<div class="col-sm-3">
-								<div class="the-box-landing the-box-transparent text-center">
-									<h4>WEB DESIGN</h4>
-									<a href="#fakelink" class="hi-icon hi-icon-screen">Web Design</a>
-								</div><!-- /.the-box-landing .the-box-transparent .text-center -->
-							</div><!-- /.col-sm-3 -->
-							<div class="col-sm-3">
-								<div class="the-box-landing the-box-transparent text-center">
-									<h4>UI DESIGN</h4>
-									<a href="#fakelink" class="hi-icon hi-icon-images">UI Design</a>
-								</div><!-- /.the-box-landing .the-box-transparent .text-center -->
-							</div><!-- /.col-sm-3 -->
-							<div class="col-sm-3">
-								<div class="the-box-landing the-box-transparent text-center">
-									<h4>MOBILE APPS</h4>
-									<a href="#fakelink" class="hi-icon hi-icon-mobile">Mobile Apps</a>
-								</div><!-- /.the-box-landing .the-box-transparent .text-center -->
-							</div><!-- /.col-sm-3 -->
-							<div class="col-sm-3">
-								<div class="the-box-landing the-box-transparent text-center">
-									<h4>WEB HOSTING</h4>
-									<a href="#fakelink" class="hi-icon hi-icon-archive">Web Hosting</a>
-								</div><!-- /.the-box-landing .the-box-transparent .text-center -->
-							</div><!-- /.col-sm-3 -->
-						</div><!-- /.row -->
-					</div><!-- /.hi-icon-effect-1 .hi-icon-effect-1a -->
-					
-					<hr />
-					
-					<h2 class="text-center">What They Say About Us?</h2>
-					
-					
-					<!-- BEGIN TESTIMONIAL CAROUSEL -->
-					<div id="carousel-testimonial" class="carousel-landing carousel carousel-testimonial slide" data-ride="carousel">
-						<!-- BEGIN TESTIMONIAL ICON -->
-						<div class="testimonial-icon">
-							<span class="fa-stack fa-lg">
-							  <i class="fa fa-circle fa-stack-2x"></i>
-							  <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
-							</span><!-- /.fa-stack .fa-lg -->
-						</div><!-- /.testimonial-icon -->
-					
-					  <!-- Indicators -->
-					  <ol class="carousel-indicators">
-						<li data-target="#carousel-testimonial" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-testimonial" data-slide-to="1"></li>
-						<li data-target="#carousel-testimonial" data-slide-to="2"></li>
-					  </ol>
 
-					  <!-- Wrapper for slides -->
-					  <div class="carousel-inner">
-						<div class="item active">
-							<div class="testimonial-inner">
-								<h5>&#34;
-								Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi
-								&#34;</h5>
-								<h4 class="testimonial-name">Jessica Rice - Yogyakarta, <abbr title="Indonesia">ID</abbr></h4>
-								<div class="testimonial-avatar">
-									<img src="assets/img/avatar/avatar.jpg" class="img-circle" alt="Avatar">
-								</div><!-- /.testimonial-avatar -->
-							</div><!-- /.testimonial-inner -->
-						</div><!-- /.item .active -->
-						<div class="item">
-							<div class="testimonial-inner">
-								<h5>&#34;
-								Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi
-								&#34;</h5>
-								<h4 class="testimonial-name">Sam Bason - Tokyo, Japan</h4>
-								<div class="testimonial-avatar">
-									<img src="assets/img/avatar/avatar.jpg" class="img-circle" alt="Avatar">
-								</div><!-- /.testimonial-avatar -->
-							</div><!-- /.testimonial-inner -->
-						</div><!-- /.item -->
-						<div class="item">
-							<div class="testimonial-inner">
-								<h5>&#34;
-								Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi
-								&#34;</h5>
-								<h4 class="testimonial-name">Sara Curtis - London, UK</h4>
-								<div class="testimonial-avatar">
-									<img src="assets/img/avatar/avatar.jpg" class="img-circle" alt="Avatar">
-								</div><!-- /.testimonial-avatar -->
-							</div><!-- /.testimonial-inner -->
-						</div><!-- /.item -->
-					  </div><!-- /.carousel-inner -->
-					</div><!-- /.carousel-landing .carousel .carousel-testimonial .slide -->
-					<!-- END TESTIMONIAL CAROUSEL -->
-				</div><!-- /.container -->
-			</div><!-- /.inner-section -->
-		</div><!-- /.section-page-landing .section-grey -->
+			<div id="slides">
+			    <div class="slides-container">
+			      <img src="images/mundial1.jpg" alt="Cinelli">
+			      <img src="images/mundial2.jpg" width="1024" height="682">
+			      <img src="images/mundial3.jpg" width="1024" height="682">
+			      <img src="images/mundial4.jpg" width="1024" height="682">
+			    </div>
+
+			    <nav class="slides-navigation">
+			      <a href="#" class="next">Next</a>
+			      <a href="#" class="prev">Previous</a>
+			    </nav>
+			 </div>
+
+
 		<!-- 
 		===========================================
 		END SERVICES SECTION
 		===========================================
 		-->
 		
-		
+
 		
 		
 		<!-- 
@@ -793,8 +680,6 @@
 		===========================================
 		-->
 		
-
-
 		<!-- 
 		===========================================
 		BEGIN CLIENT SECTION
@@ -980,6 +865,10 @@
 		<script src="assets/third/parallax/jquery.superscrollorama.js"></script>
 		<script src="assets/third/mixitup/jquery.mixitup.js"></script>
 		<script src="assets/third/backstretch/jquery.backstretch.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="assets/js/jquery.easing.1.3.js"></script>
+		<script src="assets/js/jquery.animate-enhanced.min.js"></script>
+		<script src="assets/js/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
 		<script>
 			$.backstretch([
 			  "images/image003.jpg",
@@ -988,6 +877,14 @@
 			  ], {
 				fade: 750,
 				duration: 6000
+			});
+		</script>
+		
+		<script>
+			$(function() {
+				$('#slides').superslides({
+					hashchange: true
+				});
 			});
 		</script>
 		<script src="assets/js/teplok-one-page.js"></script>
