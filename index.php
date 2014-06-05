@@ -80,8 +80,8 @@
 			    </div>
 
 			    <nav class="slides-navigation">
-			      <a href="#" class="next"></a>
-			      <a href="#" class="prev"></a>
+			      <a href="#" class="next icon-chevron-right"></a>
+			      <a href="#" class="prev icon-chevron-left"></a>
 			    </nav>
 			 </div>
 		</div>

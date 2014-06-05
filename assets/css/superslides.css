@@ -59,6 +59,7 @@
   margin: 2px;
   overflow: hidden;
   text-indent: -100%;
+  
 }
 .slides-pagination a.current {
   background: #222;

@@ -989,21 +989,25 @@ footer .footer{
   -moz-transition: background 0.15s ease;
   -o-transition: background 0.15s ease;
   transition: background 0.15s ease;
+ 
 }
 .slides-navigation a:hover {
   background: rgba(0, 0, 0, 0.4);
 }
+/*
 @media screen and (max-width: 767px) {
   .slides-navigation {
     display: none;
   }
 }
-
+*/
 .icon-chevron-left:before {
+  margin-top:5px;
   content: "\f053";
 }
 
 .icon-chevron-right:before {
+  margin-top:5px;
   content: "\f054";
 }
 
