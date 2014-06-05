@@ -9,7 +9,6 @@
 	<title>FutApp</title>
 	
 	<!-- CSS -->
-	
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/css/animate.css" rel="stylesheet">
 	<link href="assets/css/style.css" rel="stylesheet">
@@ -681,135 +680,6 @@
 		===========================================
 		-->
 		
-		
-		
-		
-		
-		<!-- 
-		===========================================
-		BEGIN TEAM SECTION
-		===========================================
-		-->
-		<div class="section-page-landing section-light-grey" id="team">
-			<div class="inner-section">
-				<div class="container">
-					<h2 class="text-center">Meet Our Team</h2>
-					
-					<!-- TEAM COLUMN -->
-					<div class="row">
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing text-center the-team-landing full">
-								<div class="ava-wrap">
-										<div class="see-detail"></div>
-										<div class="button-link">
-											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
-											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
-											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
-										</div>
-									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
-								</div><!-- /.ava-wrap -->
-								<div class="des">
-									<h3>Randy Gibson</h3>
-									<h5>-ART DIRECTOR-</h5>
-								</div><!-- /.des -->
-							</div><!-- /.the-box-landing .text-center .the-team-landing full -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing text-center the-team-landing full">
-								<div class="ava-wrap">
-										<div class="see-detail"></div>
-										<div class="button-link">
-											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
-											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
-											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
-										</div>
-									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
-								</div><!-- /.ava-wrap -->
-								<div class="des">
-									<h3>Jennifer Watkins</h3>
-									<h5>-UI DESIGNER-</h5>
-								</div><!-- /.des -->
-							</div><!-- /.the-box-landing .text-center .the-team-landing full -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing text-center the-team-landing full">
-								<div class="ava-wrap">
-										<div class="see-detail"></div>
-										<div class="button-link">
-											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
-											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
-											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
-										</div>
-									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
-								</div><!-- /.ava-wrap -->
-								<div class="des">
-									<h3>Bobby Morgan</h3>
-									<h5>-COPYWRITER-</h5>
-								</div><!-- /.des -->
-							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing text-center the-team-landing full">
-								<div class="ava-wrap">
-										<div class="see-detail"></div>
-										<div class="button-link">
-											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
-											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
-											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
-										</div>
-									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
-								</div><!-- /.ava-wrap -->
-								<div class="des">
-									<h3>Amanda Hart</h3>
-									<h5>-PHOTOGRAPHER-</h5>
-								</div><!-- /.des -->
-							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						<div class="clearfix visible-xs"></div>
-						<div class="col-md-3 col-sm-6">
-							<div class="the-box-landing text-center the-team-landing full">
-								<div class="ava-wrap">
-										<div class="see-detail"></div>
-										<div class="button-link">
-											<a href="#fakelink"><i class="fa fa-facebook"></i></a>
-											<a href="#fakelink"><i class="fa fa-twitter"></i></a>
-											<a href="#fakelink"><i class="fa fa-google-plus"></i></a>
-										</div>
-									<img src="assets/img/avatar/avatar.jpg" alt="Image team">
-								</div><!-- /.ava-wrap -->
-								<div class="des">
-									<h3>Louis Thompson</h3>
-									<h5>-GRAPHIC DESIGNER-</h5>
-								</div><!-- /.des -->
-							</div><!-- /.the-box-landing .text-center .the-team-landing .full -->
-						</div><!-- /.col-md-3 .col-sm-6 -->
-						
-						<!-- YOU CAN USE THIS COLUMN FOR HIRING INFORMATION -->
-						<div class="col-md-9 col-sm-6">
-							<div class="the-box-landing full text-center the-box-transparent">
-								<h2>We're hiring, join with us...</h2>
-								<h4>
-								Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.
-								</h4>
-								<button class="btn btn-default btn-teplok btn-lg btn-distance"><i class="fa fa-cloud-upload"></i> Submit your application</button>
-								<p class="text-danger">*note : all in one zipped file</p>
-							</div><!-- /.the-box-landing .full .text-center .the-box-transparent -->
-						</div><!-- /.col-md-9 .col-sm-6 -->
-					</div><!-- /.row -->
-					<!-- END TEAM COLUMN -->
-				</div><!-- /.container -->
-			</div><!-- /.inner-section -->
-		</div><!-- /.section-page-landing .section-light-grey -->
-		<!-- 
-		===========================================
-		END TEAM SECTION
-		===========================================
-		-->
-		
-		
-		
-		
-		
 		<!-- 
 		===========================================
 		BEGIN CLIENT SECTION
@@ -887,8 +757,7 @@
 		<div class="section-page-landing" id="contact">
 			<div class="inner-section">
 				<div class="container">
-					<h2 class="text-center">Tweet feeds</h2>
-					
+					<div id="twitter-feed" class="text-center"></div>
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div><!-- /.section-page-landing -->
@@ -1019,6 +888,12 @@
 			});
 		</script>
 		<script src="assets/js/teplok-one-page.js"></script>
+
+		<!-- Stopwatch script -->
 		<script type="text/javascript" src="assets/js/stopwatch.js"></script>
+
+		<!-- Required for Twitter feeds -->
+		<script type="text/javascript" src="twitter/twitterfeed.js"></script>
+
 	</body>
 </html>
