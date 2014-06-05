@@ -26,6 +26,8 @@
 	
 	<body class="tooltips" id="top" data-spy="scroll" data-target="#myScrollspy">
 	
+	<div class="loader"></div>
+	
 	<div class="wrapper">
 		<div id="header-landing">
 			<div id="nav-menu">
@@ -80,8 +82,8 @@
 			    </div>
 
 			    <nav class="slides-navigation">
-			      <a href="#" class="next"></a>
-			      <a href="#" class="prev"></a>
+			      <a href="#" class="next icon-chevron-right"></a>
+			      <a href="#" class="prev icon-chevron-left"></a>
 			    </nav>
 			 </div>
 		</div>
@@ -257,6 +259,13 @@
 
 		<!-- Required for Twitter feeds -->
 		<script type="text/javascript" src="twitter/twitterfeed.js"></script>
+		
+		<!-- Required for Loading Overlay -->
+		<script type="text/javascript">
+			$(window).load(function() {
+				$(".loader").fadeOut("slow");
+			})
+		</script>
 
 	</body>
 </html>
