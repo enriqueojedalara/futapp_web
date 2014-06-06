@@ -43,7 +43,7 @@
 							<li><a href="#calendario"><i class="fa fa-calendar"></i><span>Calendario</span></a></li>
 							<li><a href="#tips"><i class="fa fa-coffee"></i><span>Tips</span></a></li>
 							<li><a href="#descarga"><i class="fa  fa-download"></i><span>Descarga</span></a></li>
-							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>twitter</span></a></li>
+							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>Twitter</span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -55,7 +55,7 @@
 				<div class="clear"></div>
 				<div class="social-icons">
 					<a href="#" data-toggle="tooltip" title="Facebook"><img src="assets/img/social-icons/facebook.png" alt="Facebook icon"></a>
-					<a href="#" data-toggle="tooltip" title="Twitter"><img src="assets/img/social-icons/twitter.png" alt="Twitter icon"></a>
+					<a href="https://twitter.com/FutApp" data-toggle="tooltip" title="Twitter"><img src="assets/img/social-icons/twitter.png" alt="Twitter icon"></a>
 				</div>
 			</div>
 		</div>
@@ -193,7 +193,7 @@
 		<div class="section-page-landing" id="twitter">
 			<div class="inner-section">
 				<div class="container text-center" id="tweets">
-					<h2><img src="images/logo/twitter_logo.png" width="70" height="50"><span><a href="https://twitter.com/'+twitterprofile+'">@FutApp</a></span></h2>
+					<h2><img src="images/logo/twitter_logo.png" width="70" height="50"><span><a href="https://twitter.com/FutApp" target="_blank">@FutApp</a></span></h2>
 					<div class="text-center" id="twitter-feed"></div>
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
