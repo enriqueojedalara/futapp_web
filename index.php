@@ -43,7 +43,7 @@
 							<li><a href="#calendario"><i class="fa fa-calendar"></i><span>Calendario</span></a></li>
 							<li><a href="#tips"><i class="fa fa-coffee"></i><span>Tips</span></a></li>
 							<li><a href="#descarga"><i class="fa  fa-download"></i><span>Descarga</span></a></li>
-							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>twitter</span></a></li>-->
+							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>twitter</span></a></li>
 						</ul>
 					</div>
 				</div>
