@@ -37,8 +37,13 @@
 					</div>
 					<div class="menus" id="myScrollspy">
 						<ul class="nav scroll-nav">
-							<li><a><i>Inicio del Mundial:</i><span>&nbsp;</span></a></li>
-							<li><a><i id="minstopwatch"></i><span>&nbsp;</span></a></li>
+							<li class="active"><a href="#top"><i class="fa fa-home"></i><span>Inicio</span></a></li>
+							<li><a href="#video"><i class="fa   fa-video-camera"></i><span>Vídeo</span></a></li>
+							<li><a href="#slider"><i class="fa  fa-picture-o"></i><span>Galería</span></a></li>
+							<li><a href="#calendario"><i class="fa fa-calendar"></i><span>Calendario</span></a></li>
+							<li><a href="#tips"><i class="fa fa-coffee"></i><span>Tips</span></a></li>
+							<li><a href="#descarga"><i class="fa  fa-download"></i><span>Descarga</span></a></li>
+							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>twitter</span></a></li>-->
 						</ul>
 					</div>
 				</div>
@@ -57,7 +62,7 @@
 
 		<div class="section-theme-landing"></div>
 
-		<div class="section-page-landing" id="features">
+		<div class="section-page-landing" id="video">
 				<div class="container">
 					<div class="row">
 							<div class="the-box-landing border-hover-bottom text-center">
@@ -66,13 +71,19 @@
 									<source src="unapeliculamiedo.mp4" type="video/mp4">
 										Your browser does not support the video tag.
 								</video>-->
-								<iframe width="640" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>
+								<!--<iframe width="501" height="311" src="http://www.powtoon.com/embed/f3RPV8QHoip/" frameborder="0"></iframe>-->
+								<object width="80%" height="315">
+								<param name="movie" value="http://www.youtube.com/v/8ao3SLwMmB4"></param>
+								<param name="allowFullScreen" value="transparent"></param>
+								<embed src="http://www.youtube.com/v/8ao3SLwMmB4" type="application/x-shockwave-flash" wmode="transparent" width="80%" height="315">
+								</embed>
+								</object>
 							</div>
 					</div>
 				</div>
 		</div>
 
-		<div class="section-page-landing section-light-grey" id="tips">
+		<div class="section-page-landing section-light-grey" id="slider">
 			 <div class="slides">
 			    <div class="slides-container">
 			      <img src="images/image004.jpg" alt="Cinelli">
@@ -160,7 +171,7 @@
 			 </div>
 		</div> -->
 
-		<div class="section-page-landing section-transparent" id="texto" style="background-position: 50% 0px;background: rgba(1,1,1,.90);">
+		<div class="section-page-landing section-transparent" id="descarga" style="background-position: 50% 0px;background: rgba(1,1,1,.90);">
 			<div class="section-overlay">
 				<div class="inner-section-space">
 					<div class="container">
