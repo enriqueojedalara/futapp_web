@@ -27,7 +27,7 @@ function getTime(){
 
     //Muestra el contador en el documento HTML
     //document.getElementById("stopwatch").innerHTML = "Faltan " + daysRound  + day + hoursRound + hr + minutesRound + min + secondsRound + sec;
-    document.getElementById("minstopwatch").innerHTML = daysRound  + day + hoursRound + hr + minutesRound + min + secondsRound + sec;
+    //document.getElementById("minstopwatch").innerHTML = daysRound  + day + hoursRound + hr + minutesRound + min + secondsRound + sec;
     document.getElementById("headerstopwatch").innerHTML = "Faltan <span>" + daysRound  + day + hoursRound + hr + minutesRound + min + secondsRound + sec + "</span> <br>para el primer partido del mundial";
 
     //manda llamar la funcion getTime cada 1 segundo

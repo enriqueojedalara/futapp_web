@@ -1,7 +1,7 @@
 // JQuery Twitter Feed. Coded by www.webdevdoor.com (2012) and modified from https://twitter.com/javascripts/blogger.js
 $(document).ready(function () {
  
-    var displaylimit = 10;
+    var displaylimit = 50;
     var twitterprofile = "FutApp";
     var screenname = "Twitter";
     var showdirecttweets = false;
@@ -12,10 +12,9 @@ $(document).ready(function () {
     var headerHTML = '';
     var loadingHTML = '';
    
-    headerHTML += '<h2>'+screenname+' <span><a href="https://twitter.com/'+twitterprofile+'" >@'+twitterprofile+'</a></span></h2>';
     loadingHTML += '<div id="loading-container"><img src="images/ajax-loader.gif" width="32" height="32" alt="tweet loader" /></div>';
  
-    $('#twitter-feed').html(headerHTML + loadingHTML);
+    $('#twitter-feed').html(loadingHTML);
  
     $.getJSON('twitter/get-tweets.php',
         function(feeds) {
@@ -57,24 +56,24 @@ $(document).ready(function () {
                             feedHTML += headerHTML;
                         }
  
-                        feedHTML += '<div class="row">';
+                        feedHTML += '<div class="row feed">';
                         feedHTML += '<div class="col-sm-1">'
-										+'<a href="https://twitter.com/'+tweetusername+'" >'
+										+'<a href="https://twitter.com/'+tweetusername+'" target="_blank" >'
 											+'<img src="'+profileimage+'"images/twitter-feed-icon.png" width="42" height="42" alt="twitter icon" />'
 										+'</a>'
 									+'</div>';
                         feedHTML += '<fieldset class="col-sm-11 text-left">'
 										+'<legend>'
 											+'<strong>'
-												+'<a href="https://twitter.com/'+tweetusername+'" >'+tweetscreenname+'</a>'
+												+'<a href="https://twitter.com/'+tweetusername+'" target="_blank">'+tweetscreenname+'</a>'
 											+'</strong>&nbsp;&nbsp;&nbsp;'
-											+'<a href="https://twitter.com/'+tweetusername+'" >@'+tweetusername+'</a>'
+											+'<a href="https://twitter.com/'+tweetusername+'" target="_blank">@'+tweetusername+'</a>'
 										+'</legend>'
 										+'<p clas="row">'
 											+'<span class="col-sm-11">'
 												+status
 											+'</span>'
-											+'Hace:&nbsp;<a href="https://twitter.com/'+tweetusername+'/status/'+tweetid+'">'
+											+'<wbr>Publicado:&nbsp;<a href="https://twitter.com/'+tweetusername+'/status/'+tweetid+'" target="_blank">'
 												+relative_time(feeds[i].created_at)
 											+'</a>'
 										+'</p>'
@@ -92,12 +91,12 @@ $(document).ready(function () {
     function addlinks(data) {
         //Add link to all http:// links within tweets
         data = data.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
-            return '<a href="'+url+'" >'+url+'</a>';
+            return '<a href="'+url+'" target="_blank" >'+url+'</a>';
         });
  
         //Add link to @usernames used within tweets
         data = data.replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-            return '<a href="http://twitter.com/'+reply.substring(1)+'" style="font-weight:lighter;" >'+reply.charAt(0)+reply.substring(1)+'</a>';
+            return '<a href="http://twitter.com/'+reply.substring(1)+'" style="font-weight:lighter;" target="_blank" >'+reply.charAt(0)+reply.substring(1)+'</a>';
         });
         return data;
     }

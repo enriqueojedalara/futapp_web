@@ -920,6 +920,39 @@ body.error-page-wrap{
 	padding: 0;
 }
 
+/** TWITTER **/
+#twitter-feed{
+	color:#000;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	max-height: 200px;
+	border-top: solid 1px #0080FF;
+	border-bottom: solid 1px #0080FF;
+}
+
+#tweets h2 a{
+	color:#0080FF;
+}
+
+.feed{
+	background-color:#fff;
+	padding:5px;
+	border: solid 1px #000;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border-color: #0080FF;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.feed a{
+	color:#0000FF;
+}
+
+.feed a:hover{
+	color:#79BFFF;
+}
 
 /** FOOTER **/
 form.form-subscribe{margin: 13px 0;}
@@ -990,21 +1023,25 @@ footer .footer{
   -moz-transition: background 0.15s ease;
   -o-transition: background 0.15s ease;
   transition: background 0.15s ease;
+ 
 }
 .slides-navigation a:hover {
   background: rgba(0, 0, 0, 0.4);
 }
+/*
 @media screen and (max-width: 767px) {
   .slides-navigation {
     display: none;
   }
 }
-
+*/
 .icon-chevron-left:before {
+  margin-top:5px;
   content: "\f053";
 }
 
 .icon-chevron-right:before {
+  margin-top:5px;
   content: "\f054";
 }
 
@@ -1057,4 +1094,17 @@ footer .footer{
 
 .carousel-caption{
 	bottom:50% !important;
+}
+
+/* Required for Loading Overlay */
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('../../images/page-loader.gif') 50% 50% no-repeat rgb(0,0,0);
+	background-size:auto 30%;
+	opacity: 0.95;
 }
