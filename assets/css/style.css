@@ -930,6 +930,7 @@ footer{
 	background: #272727;
 	margin: 0 0 -30px 0;
 	color: #C6C6C6;
+	padding-top: 10px;
 }
 footer a{color: #fff;}
 footer a:hover,

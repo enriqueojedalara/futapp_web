@@ -182,9 +182,9 @@
 		<footer>
 			<div class="footer">
 				<div class="container">
-					<div class="col-md-6 text-left">&copy; 2014 <a href="#">FutApp</a> Todos los derechos reservados.</div>
-					<div class="col-md-6 text-right">
-
+					<div class="col-md-4 text-left">&copy; 2014 <a href="#">FutApp</a> Todos los derechos reservados.</div>
+					<div class="col-md-4 text-center"><a href="mailto:"></a></div>
+					<div class="col-md-4 text-right">
 						<span>Developed by <a href="http://www.jaguarlabs.com" target="_blank"><img src="images/logo_jl.png"></a></span>
 					</div>
 				</div>
