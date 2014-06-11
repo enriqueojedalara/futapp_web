@@ -54,8 +54,8 @@
 				<p>S&iacute;guenos en:</p>
 				<div class="clear"></div>
 				<div class="social-icons">
-					<a href="#" data-toggle="tooltip" title="Facebook"><img src="assets/img/social-icons/facebook.png" alt="Facebook icon"></a>
-					<a href="https://twitter.com/FutApp" data-toggle="tooltip" title="Twitter"><img src="assets/img/social-icons/twitter.png" alt="Twitter icon"></a>
+					<a href="https://www.facebook.com/pages/Fut-App/138220466328609" data-toggle="tooltip" title="Facebook" target="facebook"><img src="assets/img/social-icons/facebook.png" alt="Facebook icon"></a>
+					<a href="https://twitter.com/FutApp" data-toggle="tooltip" title="Twitter" target="twitter"><img src="assets/img/social-icons/twitter.png" alt="Twitter icon"></a>
 				</div>
 			</div>
 		</div>
@@ -67,10 +67,7 @@
 					<div class="span8">
 						<?php
 							$videos = array();
-							$videos[] = '//www.youtube.com/embed/vcj3VY1vIoM';
-							$videos[] = '//www.youtube.com/embed/CxPv21mTIsY';
-							$videos[] = '//www.youtube.com/embed/MYuW8euyM6U';
-							$videos[] = '//www.youtube.com/embed/TGtWWb9emYI';
+							$videos[] = '//www.youtube.com/embed/yHbN6o-Ozzg';
 
 							$video = $videos[array_rand($videos, 1)];
 						?>
@@ -288,9 +285,9 @@
 			<div class="footer">
 				<div class="container">
 					<div class="col-md-4 text-left">&copy; 2014 <a href="#">FutApp</a> Todos los derechos reservados.</div>
-					<div class="col-md-4 text-center"><a href="mailto:"></a></div>
+					<div class="col-md-4 text-center"><a href="mailto:info@futapp.mx">info@futapp.mx</a></div>
 					<div class="col-md-4 text-right">
-						<span>Developed by <a href="http://www.jaguarlabs.com" target="_blank"><img src="images/logo_jl.png"></a></span>
+						<span>Developed by <a href="http://www.jaguarlabs.com" target="_blank"><img src="images/logo_jl.png" width="35%"></a></span>
 					</div>
 				</div>
 			</div>
