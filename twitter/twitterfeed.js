@@ -63,12 +63,10 @@ $(document).ready(function () {
 										+'</a>'
 									+'</div>';
                         feedHTML += '<fieldset class="col-sm-11 text-left">'
-										+'<legend>'
 											+'<strong>'
-												+'<a href="https://twitter.com/'+tweetusername+'" target="_blank">'+tweetscreenname+'</a>'
+												+'<a href="https://twitter.com/'+tweetusername+'" class="black">'+tweetscreenname+'</a>'
 											+'</strong>&nbsp;&nbsp;&nbsp;'
 											+'<a href="https://twitter.com/'+tweetusername+'" target="_blank">@'+tweetusername+'</a>'
-										+'</legend>'
 										+'<p clas="row">'
 											+'<span class="col-sm-11">'
 												+status
