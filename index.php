@@ -38,7 +38,7 @@
 					<div class="menus" id="myScrollspy">
 						<ul class="nav scroll-nav">
 							<li class="active"><a href="#top"><i class="fa fa-home"></i><span>Inicio</span></a></li>
-							<li><a href="#video"><i class="fa fa-video-camera"></i><span>Vídeo</span></a></li>
+							<li><a href="#video"><i class="fa fa-video-camera"></i><span>Banner</span></a></li>
 							<li><a href="#ligas"><i class="fa fa-picture-o"></i><span>Ligas</span></a></li>
 							<li><a href="#calendario"><i class="fa fa-calendar"></i><span>Calendario</span></a></li>
 							<li><a href="#tips"><i class="fa fa-coffee"></i><span>Tips</span></a></li>
@@ -62,9 +62,9 @@
 
 
 		<div class="section-page-landing back-black" id="video">
-			<div class="container">
-				<div class="row">
-					<div class="span8">
+			<div class="container" style="padding-bottom:10px;">
+				<img src="images/banner.png">
+					<!-- <div class="span8">
 						<?php
 							$videos = array();
 							$videos[] = '//www.youtube.com/embed/yHbN6o-Ozzg';
@@ -74,8 +74,7 @@
 						<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
 						<iframe allowfullscreen="" src="<?php print $video; ?>?feature=player_detailpage" frameborder="0"></iframe>
 						</div>
-					</div>
-				</div>  
+					</div> -->
 				<br>
 			</div>
 		</div>
