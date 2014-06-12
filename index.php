@@ -259,10 +259,10 @@
 						<div class="row" style="padding-top:35px;padding-bottom:35px;">
 							<div class="col-md-1 text-left"></div>
 							<div class="col-md-5 text-left">
-								<a href="#"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
+								<a href="https://itunes.apple.com/us/app/futapp/id577601948"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
 							</div>
 							<div class="col-md-5 text-right">
-								<a href="#"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
+								<a href="https://play.google.com/store/apps/details?id=com.jaguarlabs.futapp"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
 							</div>
 							<div class="col-md-1 text-left"></div>
 						</div>
