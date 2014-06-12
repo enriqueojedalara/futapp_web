@@ -63,7 +63,7 @@
 
 		<div class="section-page-landing back-black" id="video">
 			<div class="container" style="padding-bottom:10px;">
-				<img src="images/banner.png">
+				<img src="images/banner.png" class="img-responsive">
 					<!-- <div class="span8">
 						<?php
 							$videos = array();
@@ -258,10 +258,10 @@
 						<div class="row" style="padding-top:35px;padding-bottom:35px;">
 							<div class="col-md-1 text-left"></div>
 							<div class="col-md-5 text-left">
-								<a href="https://itunes.apple.com/us/app/futapp/id577601948"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
+								<a href="https://itunes.apple.com/us/app/futapp/id577601948" target="store"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
 							</div>
 							<div class="col-md-5 text-right">
-								<a href="https://play.google.com/store/apps/details?id=com.jaguarlabs.futapp"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
+								<a href="https://play.google.com/store/apps/details?id=com.jaguarlabs.futapp" target="store"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
 							</div>
 							<div class="col-md-1 text-left"></div>
 						</div>
