@@ -38,11 +38,11 @@
 					<div class="menus" id="myScrollspy">
 						<ul class="nav scroll-nav">
 							<li class="active"><a href="#top"><i class="fa fa-home"></i><span>Inicio</span></a></li>
-							<li><a href="#video"><i class="fa fa-video-camera"></i><span>Banner</span></a></li>
+							<li><a href="#banner"><i class="fa fa-video-camera"></i><span>Banner</span></a></li>
+							<li><a href="#descarga"><i class="fa  fa-download"></i><span>Descarga</span></a></li>
 							<li><a href="#ligas"><i class="fa fa-picture-o"></i><span>Ligas</span></a></li>
 							<li><a href="#calendario"><i class="fa fa-calendar"></i><span>Calendario</span></a></li>
 							<li><a href="#tips"><i class="fa fa-coffee"></i><span>Tips</span></a></li>
-							<li><a href="#descarga"><i class="fa  fa-download"></i><span>Descarga</span></a></li>
 							<li><a href="#twitter"><i class="fa  fa-twitter"></i><span>Twitter</span></a></li>
 						</ul>
 					</div>
@@ -61,7 +61,7 @@
 		</div>
 
 
-		<div class="section-page-landing back-black" id="video">
+		<div class="section-page-landing back-black" id="banner">
 			<div class="container" style="padding-bottom:10px;">
 				<img src="images/banner.png" class="img-responsive">
 					<!-- <div class="span8">
@@ -76,6 +76,30 @@
 						</div>
 					</div> -->
 				<br>
+			</div>
+		</div>
+
+
+		<div class="section-page-landing section-transparent" id="descarga" style="background-position: 50% 0px;background: rgba(1,1,1,.70);">
+			<div class="section-overlay">
+				<div class="inner-section-space">
+					<div class="container">
+						<div class="row">
+						<h2 class="text-center">Con <span>Fut App</span> saca el director técnico que llevas dentro, crea tu alineación, compártela en redes sociales y demuestra tus conocimientos de futbol.</h2>
+						</div>
+						<div class="row" style="padding-top:35px;padding-bottom:35px;">
+							<div class="col-md-1 text-left"></div>
+							<div class="col-md-5 text-left">
+								<a href="https://itunes.apple.com/us/app/futapp/id577601948" target="store"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
+							</div>
+							<div class="col-md-5 text-right">
+								<a href="https://play.google.com/store/apps/details?id=com.jaguarlabs.futapp" target="store"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
+							</div>
+							<div class="col-md-1 text-left"></div>
+						</div>
+					</div>
+					<br>
+				</div>
 			</div>
 		</div>
 
@@ -244,30 +268,6 @@
 					</a>
 				</div>
 				<br>
-			</div>
-		</div>
-
-
-		<div class="section-page-landing section-transparent" id="descarga" style="background-position: 50% 0px;background: rgba(1,1,1,.70);">
-			<div class="section-overlay">
-				<div class="inner-section-space">
-					<div class="container">
-						<div class="row">
-						<h2 class="text-center">Con <span>Fut App</span> saca el director que llevas dentro, crea tu alineación, compártela en redes sociales y demuestra tus conocimientos de futbol.</h2>
-						</div>
-						<div class="row" style="padding-top:35px;padding-bottom:35px;">
-							<div class="col-md-1 text-left"></div>
-							<div class="col-md-5 text-left">
-								<a href="https://itunes.apple.com/us/app/futapp/id577601948" target="store"><img src="images/itunes_apple.png" class="img-responsive" style="display: inline !important;"></a>
-							</div>
-							<div class="col-md-5 text-right">
-								<a href="https://play.google.com/store/apps/details?id=com.jaguarlabs.futapp" target="store"><img src="images/android-store.png" class="img-responsive" style="display: inline !important;"></a>
-							</div>
-							<div class="col-md-1 text-left"></div>
-						</div>
-					</div>
-					<br>
-				</div>
 			</div>
 		</div>
 

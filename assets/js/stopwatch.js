@@ -16,10 +16,11 @@ function getTime(){
     hr = (hoursRound == 1) ? " hora " : " horas, ";
     day = (daysRound == 1)  ? " d&iacute;a " : " d&iacute;as, ";
 
-    if(days < 0){
-        document.getElementById("headerstopwatch").innerHTML = "";
-    }else{
-        document.getElementById("headerstopwatch").innerHTML = "Faltan <span>" + daysRound  + day + hoursRound + hr + minutesRound + min + secondsRound + sec + "</span> <br>para el primer partido del mundial";
-    }
+    document.getElementById("headerstopwatch").innerHTML = "";
+
+    //This code was commented because the "cronometro" was disabled in the web
+    /*if(days >= 0){
+        document.getElementById("headerstopwatch").innerHTML = "Faltan <span>" +  hoursRound + hr + minutesRound + min + secondsRound + sec + "</span> <br>para el primer partido del mundial";   
+    }*/
     newtime = window.setTimeout("getTime();", 1000);
 }
